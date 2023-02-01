@@ -4,3 +4,4 @@ weeks = 52
 salary = wage * hours * weeks 
 
 print('Salary is', salary)
+#This is a \n comment
