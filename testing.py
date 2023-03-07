@@ -1,4 +1,4 @@
 import sys
-class TestClass2:
+class UserForm(forms.ModelForm):
     def testFunction(self):
         print("Hello world")
