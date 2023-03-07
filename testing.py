@@ -1,4 +1,4 @@
 import sys
-class TestClass:
+class TestClass2:
     def testFunction(self):
         print("Hello world")
